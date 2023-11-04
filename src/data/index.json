@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id" : "1",
+            "src" : "./img/product-chain-1.png",
+            "title" : "Front-End",
+            "description" : "Enim enim do aliqua proident enim laboris nostrud sit qui labore ut incididunt sit exercitation. Quis veniam amet enim ullamco nisi reprehenderit irure lorem qui ad officia et nostrud est sint consequat amet."
+        },
+        {
+            "id" : "2",
+            "src" : "./img/tag-1.png",
+            "title" : "Back-End",
+            "description" : "Enim enim do aliqua proident enim laboris nostrud sit qui labore ut incididunt sit exercitation. Quis veniam amet enim ullamco nisi reprehenderit irure lorem qui ad officia et nostrud est sint consequat amet."
+        },
+        {
+            "id" : "3",
+            "src" : "./img/feather-pen-2.png",
+            "title" : "Mobile",
+            "description" : "Enim enim do aliqua proident enim laboris nostrud sit qui labore ut incididunt sit exercitation. Quis veniam amet enim ullamco nisi reprehenderit irure lorem qui ad officia et nostrud est sint consequat amet."
+        },
+        {
+            "id" : "4",
+            "src" : "./img/feather-pen-1.png",
+            "title" : "Webflow Development",
+            "description" : "Enim enim do aliqua proident enim laboris nostrud sit qui labore ut incididunt sit exercitation. Quis veniam amet enim ullamco nisi reprehenderit irure lorem qui ad officia et nostrud est sint consequat amet."
+        }
+    ]
+}
